@@ -1,3 +1,4 @@
 .idea
 node_modules
 logos
+draft/_libs/*

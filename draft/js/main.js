@@ -55,7 +55,7 @@ window.onload = (function () {
   });
 
   
-  //прокрутка слайдера колесиком мышки ограничено
+  //прокрутка слайдера колесиком мышки ограничено jquery-mousewheel
   /*let counter = 0;
   
   $owl.on('mousewheel', '.owl-stage', function (e) {

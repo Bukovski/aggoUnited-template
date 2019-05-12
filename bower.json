@@ -6,13 +6,21 @@
     "Bukovski"
   ],
   "license": "ISC",
-  "homepage": "",
+  "homepage": "https://github.com/Bukovski/aggoUnited-template",
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
     "draft/_libs",
     "test",
-    "tests"
-  ]
+    "tests",
+    "draft/_libs/"
+  ],
+  "dependencies": {
+    "css-hamburgers": "^1.1.3",
+    "jquery": "^3.4.1",
+    "owl.carousel": "^2.3.4",
+    "pushy": "^1.2.0",
+    "jquery-mousewheel": "^3.1.13"
+  }
 }
